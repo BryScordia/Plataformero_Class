@@ -64,12 +64,13 @@ public class Enemy1 : MonoBehaviour
         }
         transform.localScale = tempScale;
     }
-    void OnCollisionEnter(Collision2D other)
+    void OnCollisionEnter2D(Collision2D other)
     {
         if (other.gameObject.CompareTag("Bullet"))
         {
             Destroy(gameObject); // Destruir el enemigo
         }
     }
+
 
 }
