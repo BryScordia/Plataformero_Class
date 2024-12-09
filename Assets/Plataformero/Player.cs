@@ -12,7 +12,7 @@ public class Player : MonoBehaviour
     public LayerMask groundlayer;
     private bool isGround; 
     private bool jumped;
-    private float jumpPower = 7f;
+    public float jumpPower = 7f;
     private int coinCount = 0; // Contador de monedas
     public Text coinText; // Referencia al texto UI
 

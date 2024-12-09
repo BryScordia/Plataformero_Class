@@ -8,6 +8,7 @@ TagManager:
   - Enemy
   - Bullet
   - Switch
+  - Player_RPG
   layers:
   - Default
   - TransparentFX
@@ -16,8 +17,8 @@ TagManager:
   - Water
   - UI
   - Ground
-  - 
-  - 
+  - Enemy_Layer
+  - Player_Layer
   - 
   - 
   - 
@@ -44,4 +45,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Player_Layer
+    uniqueID: 2382974663
     locked: 0

@@ -1,0 +1,1835 @@
+fileFormatVersion: 2
+guid: 7c1e0d233abb5c644879689d72e28284
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpritesBoos_01_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 542
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4386cd57a75bde448ad5be6ef4d52efb
+      internalID: 1673519193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 542
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87fc3505ab2c1d409124b692b896b48
+      internalID: -284369315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 542
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a39717c70b45e4782f557768703ec0
+      internalID: -336292511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 542
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54f88b00502fb344b752a57bc291c49
+      internalID: -1284806724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 471
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ba2d7538b826a4ea39807e8c10101f
+      internalID: 525962574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 469
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cc511cfe5b5084fab51b6340bb3b26
+      internalID: -915201703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 469
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1c9e2e61032504fa5132bb700577d0
+      internalID: 853198625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 471
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35503134e41495408c864dbcba49dab
+      internalID: 595494767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_9
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 471
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a3b49878f90364d9eb036cc7d1e152
+      internalID: 1681648396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 471
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbe7cd36a87ac84e829cf610a34cf86
+      internalID: 336473762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_12
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 471
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330628d92d8d2ed42af5ba206b73bbe4
+      internalID: 1992854257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_13
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 471
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102f3567836a1f74a8809811d165cdef
+      internalID: -1953225118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_16
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 471
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cb5270b2e8dd64393fa6aec44904cc
+      internalID: 452971994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 404
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a90815cad8d1744a817e86e0c421313
+      internalID: -1741693515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 404
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5746cc7a71e3424fa865728bdd059d1
+      internalID: 818121824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_19
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 402
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfb71e74477d5141809122d6b1f9652
+      internalID: 1721753759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_20
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 402
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44df6bf307c1a944fa8f7697f6d2208d
+      internalID: -778225360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_22
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 402
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b0b06a0674b6448a76c5bb7ded7d92
+      internalID: -1071033413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_24
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 402
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f619a5978e4a7d643930d6dd81526282
+      internalID: -380064844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 402
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4794e96c9d72c4e92b59bb3b70234b
+      internalID: -1281377216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_26
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 402
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d657bc1e7bd9940afb6d42c6376b1a
+      internalID: 644753259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_27
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 402
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf2007fcab639f4c89545c8ef920891
+      internalID: -1593808803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c920a24eb20078499cb4a536414eda8
+      internalID: -639774800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_31
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 337
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d86bddf17090d1479393b17e6000f40
+      internalID: -683297351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_32
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 337
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40644cb0e73501c4e9c57daea890b5dd
+      internalID: 743645734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_33
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 337
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82ed2ac447acde41a278d7008cb33ba
+      internalID: -881261457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_34
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 337
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447924a001fae234fbdf6d9ec9939eb5
+      internalID: 1581678003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_35
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 337
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c4b8de6e5f4f34d86a4008968ae66e
+      internalID: 76664311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_36
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 337
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8293d6e47094e442819ff43c440713e
+      internalID: 253991860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_37
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 337
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c93344ac9875524eb0b84df4ee50cee
+      internalID: 1036752715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_38
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 338
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9211442a8483f40ac2add47196f8d6
+      internalID: 1341358841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_39
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 267
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92f157b6a984bb4caa751d21ad0c84c
+      internalID: 1034139837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_40
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 267
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3e709aafed2be4cb9b0d9d6baac42c
+      internalID: 430971608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_41
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 267
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839d61eaf7ecce54da20fb11c71790f2
+      internalID: 1411126050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_43
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 267
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c9c7573a087d641ba6bdb2185a547f
+      internalID: 2126934674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_45
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 269
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc27b56b3cf61f47a7b13ad7690cfc9
+      internalID: -37874396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_46
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 269
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5d176dfb65dbc4387b85de099c5c2f
+      internalID: 1664572360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_48
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 267
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b384e63ef6f55f84c807f4c878090dbf
+      internalID: -957799893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_50
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 269
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf8350c3542d874cab4387142d19436
+      internalID: 1723536296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_52
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 269
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef92504d36480345890d564af274807
+      internalID: -428119399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_56
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 198
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea283a8eebc97c2499c023e6383362b1
+      internalID: 302756766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_57
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 198
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5ec87e0c262c546b7cc136d9c40374
+      internalID: 1460970104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_58
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 198
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309b5ce9ff28c5140a645ccb78e372eb
+      internalID: -1068337793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_60
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 198
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443c9fdc50208a84cbcb26bbc840858e
+      internalID: -1127813759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_61
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 198
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5ae786241e5f6419e910d43a76c877
+      internalID: 1200213794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_62
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 198
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6194390da66f41540b8f790db3271fec
+      internalID: 368593023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_63
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 198
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cf22b9254385a418fb7f9bcfb28bfa
+      internalID: -1023645607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_64
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 198
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314aa41823fe71b439b964b66b47c479
+      internalID: -1391087396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_65
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 198
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bf87a2b8a99b24cbf8fee0ea34119b
+      internalID: -1134036042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_66
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 133
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fb1b8f87fe1c046b2c6007ab84cc99
+      internalID: 1630862842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_67
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 133
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0867474a9f7a50c4b886ed29d97d9987
+      internalID: 2050932427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 133
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd911ab29e95de4692fe7225917100e
+      internalID: -1191346488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_69
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 133
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2382d9f825d9c43a0b6181ac89e3e1
+      internalID: 1482880004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_70
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 133
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802dd2c5045ed83418e17dfeb69c864e
+      internalID: 393579038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_71
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 133
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018db2f11828e144fa248a0ca7db0cec
+      internalID: -148728848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_72
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 133
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6231fa6068f7d4cb5d933668d31af0
+      internalID: 1872439207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_73
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 133
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ba1cf158b9d424382d3b05ac51e52f
+      internalID: 1488952939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_74
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 133
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb7a4c0dafb267438ad8b8cfea39bf0
+      internalID: -479651930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_75
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 64
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a88ee0364fb7ed49973ceeac54a5caa
+      internalID: 816884609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_77
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 64
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca49d0f3022c8ec498dd5ebccef6e754
+      internalID: -635239603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_79
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c5f1a127f7d934f90d45e2cc120f21
+      internalID: 1926403365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_80
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 64
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fa41e43b56abd419c753d918bec62d
+      internalID: 2140970722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_82
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 64
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41395341e8af1042a09e13beef3aed5
+      internalID: 417337295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_84
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 64
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecd2e3b38eddaa42b73bc24d35320ee
+      internalID: -176841513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_85
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 64
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a800d27a05d53a344a509f736dd94dca
+      internalID: 1101821664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_86
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb3b39253ba80e4c8be4256ea1ec6bd
+      internalID: -776857902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_88
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 64
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2050af36c26bd074098a1a014425e6f4
+      internalID: 1267902994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b144d7e6491d14695b0afab8c92f51
+      internalID: -1050052367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_90
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a965be38566974298252a3b75f05bb
+      internalID: -1439209699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_92
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4dc36d598cfd64984e44ed38d45a06
+      internalID: 287485905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_93
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c8e1f2de6081b48aee1e175ae1faa2
+      internalID: -1164931813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_94
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f756d3dc881e6a458add2b2243ca43d
+      internalID: -1267545651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_95
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bcb313a379a5544b9aa3243cb470cd
+      internalID: -1713771101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_96
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bee35fcecf89b49818b4b1e31746c2
+      internalID: -1939364124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_97
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c550dbb8cb8a7c45a8d5622341234ad
+      internalID: -59709760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesBoos_01_98
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ae65eb0f048d04687e6423c5faaad3
+      internalID: 57926653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpritesBoos_01_0: 1673519193
+      SpritesBoos_01_1: -284369315
+      SpritesBoos_01_10: 336473762
+      SpritesBoos_01_11: 1621798155
+      SpritesBoos_01_12: 1992854257
+      SpritesBoos_01_13: -1953225118
+      SpritesBoos_01_14: 1951829780
+      SpritesBoos_01_15: -911925917
+      SpritesBoos_01_16: 452971994
+      SpritesBoos_01_17: -1741693515
+      SpritesBoos_01_18: 818121824
+      SpritesBoos_01_19: 1721753759
+      SpritesBoos_01_2: -336292511
+      SpritesBoos_01_20: -778225360
+      SpritesBoos_01_21: -1615168157
+      SpritesBoos_01_22: -1071033413
+      SpritesBoos_01_23: 930267847
+      SpritesBoos_01_24: -380064844
+      SpritesBoos_01_25: -1281377216
+      SpritesBoos_01_26: 644753259
+      SpritesBoos_01_27: -1593808803
+      SpritesBoos_01_28: -1249766370
+      SpritesBoos_01_29: -178668185
+      SpritesBoos_01_3: -1284806724
+      SpritesBoos_01_30: -639774800
+      SpritesBoos_01_31: -683297351
+      SpritesBoos_01_32: 743645734
+      SpritesBoos_01_33: -881261457
+      SpritesBoos_01_34: 1581678003
+      SpritesBoos_01_35: 76664311
+      SpritesBoos_01_36: 253991860
+      SpritesBoos_01_37: 1036752715
+      SpritesBoos_01_38: 1341358841
+      SpritesBoos_01_39: 1034139837
+      SpritesBoos_01_4: 525962574
+      SpritesBoos_01_40: 430971608
+      SpritesBoos_01_41: 1411126050
+      SpritesBoos_01_42: 1028502322
+      SpritesBoos_01_43: 2126934674
+      SpritesBoos_01_44: 778999436
+      SpritesBoos_01_45: -37874396
+      SpritesBoos_01_46: 1664572360
+      SpritesBoos_01_47: -137471748
+      SpritesBoos_01_48: -957799893
+      SpritesBoos_01_49: 544362070
+      SpritesBoos_01_5: -915201703
+      SpritesBoos_01_50: 1723536296
+      SpritesBoos_01_51: 1991703955
+      SpritesBoos_01_52: -428119399
+      SpritesBoos_01_53: 292532453
+      SpritesBoos_01_54: -200840269
+      SpritesBoos_01_55: -126314168
+      SpritesBoos_01_56: 302756766
+      SpritesBoos_01_57: 1460970104
+      SpritesBoos_01_58: -1068337793
+      SpritesBoos_01_59: 518884725
+      SpritesBoos_01_6: 853198625
+      SpritesBoos_01_60: -1127813759
+      SpritesBoos_01_61: 1200213794
+      SpritesBoos_01_62: 368593023
+      SpritesBoos_01_63: -1023645607
+      SpritesBoos_01_64: -1391087396
+      SpritesBoos_01_65: -1134036042
+      SpritesBoos_01_66: 1630862842
+      SpritesBoos_01_67: 2050932427
+      SpritesBoos_01_68: -1191346488
+      SpritesBoos_01_69: 1482880004
+      SpritesBoos_01_7: 595494767
+      SpritesBoos_01_70: 393579038
+      SpritesBoos_01_71: -148728848
+      SpritesBoos_01_72: 1872439207
+      SpritesBoos_01_73: 1488952939
+      SpritesBoos_01_74: -479651930
+      SpritesBoos_01_75: 816884609
+      SpritesBoos_01_76: 540644183
+      SpritesBoos_01_77: -635239603
+      SpritesBoos_01_78: 107308014
+      SpritesBoos_01_79: 1926403365
+      SpritesBoos_01_8: -695796322
+      SpritesBoos_01_80: 2140970722
+      SpritesBoos_01_81: 1565047794
+      SpritesBoos_01_82: 417337295
+      SpritesBoos_01_83: -882246668
+      SpritesBoos_01_84: -176841513
+      SpritesBoos_01_85: 1101821664
+      SpritesBoos_01_86: -776857902
+      SpritesBoos_01_87: -836039418
+      SpritesBoos_01_88: 1267902994
+      SpritesBoos_01_89: -1050052367
+      SpritesBoos_01_9: 1681648396
+      SpritesBoos_01_90: -1439209699
+      SpritesBoos_01_91: 800224774
+      SpritesBoos_01_92: 287485905
+      SpritesBoos_01_93: -1164931813
+      SpritesBoos_01_94: -1267545651
+      SpritesBoos_01_95: -1713771101
+      SpritesBoos_01_96: -1939364124
+      SpritesBoos_01_97: -59709760
+      SpritesBoos_01_98: 57926653
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
