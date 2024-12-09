@@ -501,7 +501,7 @@ MonoBehaviour:
   groundcheck: {fileID: 158391615}
   groundlayer:
     serializedVersion: 2
-    m_Bits: 256
+    m_Bits: 0
   coinText: {fileID: 1082931678}
 --- !u!50 &364616895
 Rigidbody2D:
