@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
+using UnityEngine.SceneManagement; // Necesario para cargar nuevas escenas
 
 public class DragAndDropR : MonoBehaviour
 {
@@ -15,25 +15,15 @@ public class DragAndDropR : MonoBehaviour
     [SerializeField] private GameObject bocina, valvula, valvula2, tapa, boton, cable;
     [SerializeField] private Transform targetBocina, targetValvula, targetValvula2, targetTapa, targetBoton, targetCable;
 
-    // Botón de la UI que se activará cuando todos los objetos estén en sus posiciones
-    [SerializeField] private Button uiButton;
-
     void Start()
     {
         // Agregar los objetos y sus objetivos al diccionario
         objectsAndTargets.Add(bocina, targetBocina);
         objectsAndTargets.Add(valvula, targetValvula);
         objectsAndTargets.Add(valvula2, targetValvula2);
-        
         objectsAndTargets.Add(tapa, targetTapa);
         objectsAndTargets.Add(boton, targetBoton);
         objectsAndTargets.Add(cable, targetCable);
-
-        // Asegurarse de que el botón esté desactivado al inicio
-        if (uiButton != null)
-        {
-            uiButton.gameObject.SetActive(false);
-        }
     }
 
     private void OnMouseDown()
@@ -92,11 +82,13 @@ public class DragAndDropR : MonoBehaviour
             }
         }
 
-        // Si todos los objetos están en sus posiciones, activa el botón de la UI
-        if (uiButton != null)
-        {
-            uiButton.gameObject.SetActive(true);
-        }
+        // Si todos los objetos están en sus posiciones, carga la escena "Endless"
+        LoadEndlessScene();
+    }
+
+    private void LoadEndlessScene()
+    {
+        // Carga la escena Endless
+        SceneManager.LoadScene("Endless");
     }
 }
-
