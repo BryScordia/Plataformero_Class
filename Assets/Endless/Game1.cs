@@ -99,7 +99,9 @@ public class Game1 : MonoBehaviour
         txtpoints.text = (++points).ToString();
         if (points >= 20)
         {
-            SceneManager.LoadScene("nivel 3");
+            PlayerPrefs.SetInt("CreditsUnlocked", 1); // Guardar estado desbloqueado
+            PlayerPrefs.Save(); // Asegurar que los datos se guarden
+            SceneManager.LoadScene("Intro");
         }
     }
 
