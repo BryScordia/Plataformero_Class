@@ -21,6 +21,9 @@ EditorBuildSettings:
     path: Assets/Scenes/HowTo.unity
     guid: e00fab11a9dd0b04d80c2ae12bc1eaca
   - enabled: 1
+    path: Assets/Scenes/HISTORIA.unity
+    guid: e3b5dfa2fc1dc884f9b9ebb16bb7ccda
+  - enabled: 1
     path: Assets/Scenes/D&D.unity
     guid: 4eb0aec705a73694697763043d810b13
   - enabled: 1
@@ -29,6 +32,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Plat_01 2.unity
     guid: 5f33ebd11a425df4f8f468572416a238
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: c63a52e910c1eff44aa7e260abcf31fc
+  - enabled: 1
+    path: Assets/Scenes/Creditos 1.unity
+    guid: fd7cb7a539072ec44beedd37dfe7332e
   - enabled: 1
     path: Assets/Endless/Endless true.unity
     guid: ec191f3a22d629d4888b72ad4770df1f

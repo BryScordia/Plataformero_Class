@@ -101,7 +101,7 @@ public class Game1 : MonoBehaviour
         {
             PlayerPrefs.SetInt("CreditsUnlocked", 1); // Guardar estado desbloqueado
             PlayerPrefs.Save(); // Asegurar que los datos se guarden
-            SceneManager.LoadScene("Intro");
+            SceneManager.LoadScene("Creditos 1");
         }
     }
 
