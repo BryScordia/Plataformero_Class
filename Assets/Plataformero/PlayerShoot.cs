@@ -22,6 +22,8 @@ public class PlayerShoot : MonoBehaviour
             GameObject bullet = Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
             float direction = transform.localScale.x > 0 ? 1f : -1f; // Determinar la dirección basado en la escala del jugador
             bullet.GetComponent<FireBullet>().SetDirection(direction);
+
+            Destroy(bullet, 3f);
         }
     }
 }
