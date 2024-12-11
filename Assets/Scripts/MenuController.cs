@@ -25,6 +25,11 @@ public class MenuController : MonoBehaviour
         SceneManager.LoadScene("Creditos");
     }
 
+    public void LoadCredits1()
+    {
+        SceneManager.LoadScene("Creditos 1");
+    }
+
     public void PlayGame()
     {
         SceneManager.LoadScene("HISTORIA");
