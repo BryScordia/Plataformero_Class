@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1c94f571d25fa2b45b3c006b141d3bef
+guid: a9e6f0cf130790d4588a59094e4e4711
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 650
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -128,7 +128,7 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 686
+        width: 647
         height: 1200
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -137,8 +137,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ffbf2187f454254aafd5bae2c6c6e6d
-      internalID: 287617878
+      spriteID: bb3d00dea9497ef4792a922dc3e18e11
+      internalID: 270662530
       vertices: []
       indices: 
       edges: []
@@ -147,9 +147,9 @@ TextureImporter:
       name: Enemy2_WalkL_1
       rect:
         serializedVersion: 2
-        x: 685
+        x: 732
         y: 0
-        width: 731
+        width: 690
         height: 1200
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -158,8 +158,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a7ba1ab751619e47973f95b861ebbd0
-      internalID: -1443761118
+      spriteID: b4e678e91b3355a4b947ae8004d51ab2
+      internalID: -1610559847
       vertices: []
       indices: 
       edges: []
@@ -168,9 +168,9 @@ TextureImporter:
       name: Enemy2_WalkL_2
       rect:
         serializedVersion: 2
-        x: 1418
+        x: 1429
         y: 0
-        width: 476
+        width: 489
         height: 1200
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -179,8 +179,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: edfab211c06fb46468a84d8b40a5c552
-      internalID: 1117609072
+      spriteID: edefb14c84dc363498e508537c90b5d3
+      internalID: -1681497484
       vertices: []
       indices: 
       edges: []
@@ -189,9 +189,9 @@ TextureImporter:
       name: Enemy2_WalkL_3
       rect:
         serializedVersion: 2
-        x: 1920
+        x: 1942
         y: 0
-        width: 584
+        width: 562
         height: 1200
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -200,8 +200,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5119e4fdb787e9846bf630aecfbee91e
-      internalID: 1250598328
+      spriteID: 0e49c5e233573a247b4124b2b5cd9b6a
+      internalID: 1406624347
       vertices: []
       indices: 
       edges: []
@@ -217,10 +217,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Enemy2_WalkL_0: 287617878
-      Enemy2_WalkL_1: -1443761118
-      Enemy2_WalkL_2: 1117609072
-      Enemy2_WalkL_3: 1250598328
+      Enemy2_WalkL_0: 270662530
+      Enemy2_WalkL_1: -1610559847
+      Enemy2_WalkL_2: -1681497484
+      Enemy2_WalkL_3: 1406624347
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

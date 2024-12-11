@@ -15,6 +15,7 @@ public class Player : MonoBehaviour
     public float jumpPower = 7f;
     private int coinCount = 0; // Contador de monedas
     public Text coinText; // Referencia al texto UI
+    public Transform checkpoint; // Referencia al GameObject Checkpoint
 
     void Start()
     {
@@ -97,4 +98,21 @@ public class Player : MonoBehaviour
     {
         coinText.text = "MONEDAS: " + coinCount;
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Picos"))
+        {
+            Debug.Log("Jugador tocó los picos. Teletransportando al checkpoint...");
+            if (checkpoint != null)
+            {
+                transform.position = checkpoint.position; // Mueve al jugador al checkpoint
+            }
+            else
+            {
+                Debug.LogWarning("Checkpoint no asignado en el inspector.");
+            }
+        }
+    }
+
 }

@@ -22,6 +22,32 @@ public class MenuController : MonoBehaviour
 
     public void LoadCredits()
     {
-        SceneManager.LoadScene("Creditos"); // Cambia "CreditsScene" al nombre de tu escena de créditos
+        SceneManager.LoadScene("Creditos");
+    }
+
+    public void PlayGame()
+    {
+        SceneManager.LoadScene("HISTORIA");
+    }
+
+    public void PlayGame1()
+    {
+        SceneManager.LoadScene("Plat_01");
+    }
+
+    public void HowTo()
+    {
+        SceneManager.LoadScene("HowTo");
+    }
+
+    public void QuitGame()
+    {
+        Debug.Log("Saliendo del juego...");
+        Application.Quit();
+    }
+
+    public void menu()
+    {
+        SceneManager.LoadScene("Intro");
     }
 }

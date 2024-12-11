@@ -9,6 +9,9 @@ TagManager:
   - Bullet
   - Switch
   - Player_RPG
+  - point
+  - Destroy
+  - Picos
   layers:
   - Default
   - TransparentFX
