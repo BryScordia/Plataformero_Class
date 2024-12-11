@@ -1027,7 +1027,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1095785502}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: Game1, Assembly-CSharp
         m_MethodName: ResetGame
         m_Mode: 1
@@ -1346,7 +1346,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1095785494}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b6739047d6248894ba3ce94e47609c44, type: 3}
+  m_Script: {fileID: 11500000, guid: 53e3ca5e5d4fb9142aa6d1df6a8ae7d9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   background: {fileID: 882361407}
@@ -1526,7 +1526,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1095785502}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: Game1, Assembly-CSharp
         m_MethodName: SceneMenu
         m_Mode: 1
@@ -1928,7 +1928,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1671880811}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e59c4dcdee1aea54ca8210731f7678d1, type: 3}
+  m_Script: {fileID: 11500000, guid: 8add3b6c07669244ebfacedaedf34356, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   controller: {fileID: 1095785494}
