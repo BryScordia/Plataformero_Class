@@ -115,5 +115,11 @@ public class Game1 : MonoBehaviour
         uiWait.SetActive(true);
         uiEnd.SetActive(false);
     }
+
+    public void SceneMenu()
+    {
+        SceneManager.LoadScene("Intro"); // Cambia "CreditsScene" al nombre de tu escena de créditos
+    }
+
 }
 
