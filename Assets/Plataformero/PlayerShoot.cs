@@ -23,7 +23,7 @@ public class PlayerShoot : MonoBehaviour
             float direction = transform.localScale.x > 0 ? 1f : -1f; // Determinar la dirección basado en la escala del jugador
             bullet.GetComponent<FireBullet>().SetDirection(direction);
 
-            Destroy(bullet, 3f);
+            Destroy(bullet, 1.5f);
         }
     }
 }

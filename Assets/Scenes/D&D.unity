@@ -277,7 +277,6 @@ MonoBehaviour:
   targetTapa: {fileID: 1188145067}
   targetBoton: {fileID: 408546554}
   targetCable: {fileID: 905769895}
-  uiButton: {fileID: 0}
 --- !u!1 &251160351
 GameObject:
   m_ObjectHideFlags: 0
@@ -380,7 +379,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &268301759
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -619,7 +618,6 @@ MonoBehaviour:
   targetTapa: {fileID: 1188145067}
   targetBoton: {fileID: 408546554}
   targetCable: {fileID: 905769895}
-  uiButton: {fileID: 0}
 --- !u!1 &408546553
 GameObject:
   m_ObjectHideFlags: 0
@@ -859,7 +857,6 @@ MonoBehaviour:
   targetTapa: {fileID: 1188145067}
   targetBoton: {fileID: 408546554}
   targetCable: {fileID: 905769895}
-  uiButton: {fileID: 0}
 --- !u!1 &602953752
 GameObject:
   m_ObjectHideFlags: 0
@@ -1099,7 +1096,6 @@ MonoBehaviour:
   targetTapa: {fileID: 1188145067}
   targetBoton: {fileID: 408546554}
   targetCable: {fileID: 905769895}
-  uiButton: {fileID: 0}
 --- !u!1 &715448261
 GameObject:
   m_ObjectHideFlags: 0
@@ -1248,7 +1244,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: cdd69c92a69f059479e5286a5564ef3a, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 27ac8772ac8ab6048844478025430f21, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -1903,7 +1899,6 @@ MonoBehaviour:
   targetTapa: {fileID: 1188145067}
   targetBoton: {fileID: 408546554}
   targetCable: {fileID: 905769895}
-  uiButton: {fileID: 0}
 --- !u!1 &1607558862
 GameObject:
   m_ObjectHideFlags: 0
@@ -2308,7 +2303,6 @@ MonoBehaviour:
   targetTapa: {fileID: 1188145067}
   targetBoton: {fileID: 408546554}
   targetCable: {fileID: 905769895}
-  uiButton: {fileID: 0}
 --- !u!1 &1979384570
 GameObject:
   m_ObjectHideFlags: 0

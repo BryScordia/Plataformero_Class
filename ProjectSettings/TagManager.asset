@@ -12,6 +12,7 @@ TagManager:
   - point
   - Destroy
   - Picos
+  - Portal
   layers:
   - Default
   - TransparentFX
